@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @as-xo
-- 👀 I’m interested in Machine Learning, AI and, Robtics
+- 👀 I’m interested in Machine Learning, AI and, Robotics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on python projects to improve my skills
 - 📫 How to reach me ...
