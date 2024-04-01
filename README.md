@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flask, Django, Tkinter**
 
-- 💬 Ask me about **Python, HTML, CSS**
+- 💬 Ask me about **Python, Flask, HTML, CSS**
 
 - 📫 How to reach me **anitampofu90@gmail.com**
 
