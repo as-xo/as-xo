@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A Library Management System app implemented with the Flask framework**
 
-- 🌱 I’m currently learning **Flask, Django, Tkinter**
+- 🌱 I’m currently learning **Flask**
 
 - 💬 Ask me about **Python, Flask, HTML, CSS**
 
