@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anita</h1>
 <h3 align="center">Currently a CS student at University of Birmingham</h3>
 
-- 🔭 I’m currently working on **A Library Management System app implemented with the Flask framework**
+- 🔭 I’m currently working on **An educational coding game developed in Godot game engine**
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Godot, GDScript and C#**
 
 - 💬 Ask me about **Python, Flask, HTML, CSS**
 
