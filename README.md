@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anita</h1>
-<h3 align="center">Currently a CS student at University of Birmingham</h3>
+<h3 align="center">Currently a Graduate Trainee at GuyKat!</h3>
 
-- 🔭 I’m currently working on **An educational coding game developed in Godot game engine**
+- 🔭 I’m currently working on **Support Ticket Priority Predictor**
 
-- 🌱 I’m currently learning **Godot, GDScript and C#**
+- 🌱 I’m currently learning **TensorFlow**
 
-- 💬 Ask me about **Python, Flask, HTML, CSS**
+- 💬 Ask me about **Python, Javascript, Flask, HTML, CSS**
 
 - 📫 How to reach me **anitampofu90@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/anitampofu/</h3>
 <p align="left">
 </p>
 
