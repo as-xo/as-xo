@@ -1,17 +1,72 @@
-<h1 align="center">Hi 👋, I'm Anita</h1>
-<h3 align="center">Currently a Graduate Trainee at GuyKat!</h3>
-
-- 🔭 I’m currently working on **Support Ticket Priority Predictor**
-
-- 🌱 I’m currently learning **TensorFlow**
-
-- 💬 Ask me about **Python, Javascript, Flask, HTML, CSS**
-
-- 📫 How to reach me **anitampofu90@gmail.com**
-
-<h3 align="left">Connect with me: https://www.linkedin.com/in/anitampofu/</h3>
-<p align="left">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Anita's%20Github!&animation=blinking&type=speech&color=gradient&height=100" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="GIF_URL" width="300" />
+</p>
+
+```yaml
+Name: Anita
+Role: Software Developer
+Interests:
+  - AI and Machine Learning
+  - Anime
+  - Olympic Weightlifting
+  - Music
+  - Travelling
+Currently_learning: Advanced ML workflows
+Goals:
+  - Build intelligent systems
+  - Become a strong software engineer in AI
+```
+
+<h2> Tech I Use </h2>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="45"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
+
+![Snake Animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## GitHub Actions Workflow
+
+```yaml
+name: Generate Datas
+on:
+  schedule:
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: YOUR_USERNAME
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
