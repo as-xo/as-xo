@@ -1,72 +1,33 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Anita's%20Github!&animation=blinking&type=speech&color=gradient&height=100" />
-</p>
+<!--
+    Hey there, I'm Anita Mpofu
+    Welcome to my README
+    Inspo from https://github.com/daria-stanilevici/daria-stanilevici/blob/main/README.md
+-->
 
-<p align="center">
-  <img src="GIF_URL" width="300" />
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8AA6FF&height=120&section=header" alt="header"/>
 
-```yaml
-Name: Anita
-Role: Software Developer
-Interests:
-  - AI and Machine Learning
-  - Anime
-  - Olympic Weightlifting
-  - Music
-  - Travelling
-Currently_learning: Advanced ML workflows
-Goals:
-  - Build intelligent systems
-  - Become a strong software engineer in AI
-```
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=8AA6FF&width=500&lines=Hello%2C+I'm+Anita+Mpofu;Aspiring+ML+Engineer+%2F+SWE" alt="Anita Intro"/>
+</a>
 
-<h2> Tech I Use </h2>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="45"/>
-</p>
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=python,flask,js,html,css,git,github,sqlite,linux,vscode&perline=5)](https://skillicons.dev)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-</p>
+### Currently learning
+[![Learning](https://skillicons.dev/icons?i=tensorflow,react,RESTapi)](https://skillicons.dev)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
+<div>
+    <img src="" alt="Anita Terminal GIF"/>
+</div>
 
-![Snake Animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+### Connect with me
+<div>
+    <a href="https://www.linkedin.com/in/anitampofu/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    <a href="mailto:anitampofu90@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="35" height="35"/>
+    </a>
+</div>
 
----
-
-## GitHub Actions Workflow
-
-```yaml
-name: Generate Datas
-on:
-  schedule:
-    - cron: "* */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: YOUR_USERNAME
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8AA6FF&height=120&section=footer" alt="footer"/>
