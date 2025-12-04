@@ -4,7 +4,7 @@
     Inspo from https://github.com/daria-stanilevici/daria-stanilevici/blob/main/README.md
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e6ccff&height=120&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8AA6FF&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=8AA6FF&width=500&lines=Hello%2C+I'm+Anita+Mpofu;Aspiring+ML+Engineer+%2F+SWE" alt="Anita Intro"/>
