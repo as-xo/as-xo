@@ -17,7 +17,7 @@
 [![Learning](https://skillicons.dev/icons?i=tensorflow,react,RESTapi)](https://skillicons.dev)
 
 <div>
-    <img src="https://github.com/as-xo/as-xo/blob/main/terminal.gif" alt="Anita Terminal GIF"/>
+    <img src="https://github.com/as-xo/as-xo/blob/main/terminal_2.gif" alt="Anita Terminal GIF"/>
 </div>
 
 ### Connect with me
