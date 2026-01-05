@@ -7,14 +7,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8AA6FF&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=8AA6FF&width=500&lines=Hello%2C+I'm+Anita+Mpofu;Aspiring+ML+Engineer+%2F+SWE" alt="Anita Intro"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=8AA6FF&width=500&lines=Hey%2C+I'm+Anita+M;Aspiring+Cyber+Security+Professional" alt="Anita Intro"/>
 </a>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=python,flask,js,html,css,git,github,sqlite,linux,vscode&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,git,github,sqlite,linux,vscode&perline=5)](https://skillicons.dev)
 
 ### Currently learning
-[![Learning](https://skillicons.dev/icons?i=tensorflow,react,RESTapi)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 <div>
     <img src="https://github.com/as-xo/as-xo/blob/main/terminal_2.gif" alt="Anita Terminal GIF"/>
